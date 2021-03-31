@@ -83,7 +83,8 @@ img {
 }
 
 .myButton:hover {
-  background-color:#e69708;
+  background-color: #ffffff;
+  color: #ffa500;
 }
 
 .myButton:active {
