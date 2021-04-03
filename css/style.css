@@ -116,6 +116,11 @@ img {
   height: auto;
 }
 
+.time:hover {
+  background-color: #4a4a4a;
+  color: #ffffff;
+}
+
 .mins {
   display: inline-block;
   font-family: Poppins;
