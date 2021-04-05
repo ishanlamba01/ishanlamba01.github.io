@@ -160,4 +160,11 @@ footer {
   main {
     grid-template-columns: 1fr;
   }
+
+  .bio {
+    font-size: 20px;
+  }
+  .description {
+    font-size: 12px;
+  }
 }
