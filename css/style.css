@@ -101,12 +101,24 @@ img {
   color: #ffffff;
 }
 
-.a {
-   color: #3D85C6;
+a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:visited {
+  color: purple;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
 }
 
 .c {
-   color: #3D85C6;
+
 }
 
 .time {
