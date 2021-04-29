@@ -92,7 +92,7 @@ img {
 }
 
 .project {
-  box-shadow: 0 0px 1px 0 rgb(0 0 0 / 40%);
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 50%);
   width: 100%;
 }
 
@@ -101,7 +101,7 @@ img {
   color: #ffffff;
 }
 
-/*a {
+a {
   color: blue;
   background-color: transparent;
   text-decoration: underline;
@@ -112,7 +112,7 @@ a:hover {
   background-color: transparent;
   text-decoration: underline;
 }
-
+/*
 .c {
 
 }
@@ -144,7 +144,7 @@ a:hover {
   letter-spacing: 0.1px;
   text-align: left;
   color: #4a4a4a;
-  padding: 0 20px 20px 20px;
+  padding: 10px 0px 10px 10px;
   border-top: 1px solid #9a9a9a;
 }
 
