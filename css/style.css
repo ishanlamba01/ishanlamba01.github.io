@@ -101,7 +101,7 @@ img {
   color: #ffffff;
 }
 
-a {
+/*a {
   color: blue;
   background-color: transparent;
   text-decoration: underline;
@@ -134,7 +134,7 @@ a:hover {
   color: #4a4a4a;
   position: relative;
   bottom: 5px;
-}
+}*/
 
 .description {
   font-family: 'DM Sans', sans-serif;
